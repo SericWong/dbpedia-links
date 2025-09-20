@@ -111,8 +111,8 @@ https://github.com/dbpedia/dbpedia-links/tree/master/datasets/dbpedia.org/www4.w
 
 https://github.com/dbpedia/dbpedia-links/blob/master/datasets/dbpedia.org/umbel.org/umbel-classification
 	datasets/dbpedia.org/umbel.org/umbel-classification
-	<http://dbpedia.org/resource/Aglaodiaptomus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://umbel.org/umbel/rc/Crustacean> .
-	<http://dbpedia.org/resource/Aglaodorum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://umbel.org/umbel/rc/Plant> .
+	<http://dbpedia.org/resource/Aglaodiaptomus> <http://www.w3.org/2025-09-20-rdf-syntax-ns#type> <http://umbel.org/umbel/rc/Crustacean> .
+	<http://dbpedia.org/resource/Aglaodorum> <http://www.w3.org/2025-09-20-rdf-syntax-ns#type> <http://umbel.org/umbel/rc/Plant> .
 
 
 # Ideas:
